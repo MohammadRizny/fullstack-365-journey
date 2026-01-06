@@ -26,7 +26,7 @@ During this project, I practiced:
 - Add JavaScript for interactivity
 - Eventually add backend (Node.js, Express, database)
 
-## 🔗 Live Demo (optional)
+## 🔗 Live Demo 
 I plan to deploy this using GitHub Pages soon. Stay tuned!
 
 ---
