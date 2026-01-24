@@ -36,9 +36,13 @@ p {
   
 }
 
-img {
-  width: 100%;
-  height: auto;  /* Preserves aspect ratio */
+
+  img {
+  display: block;
+  margin: 0 auto;
+  max-width: 90%;
+  height: auto;
+  }
 }
 
 .description {
@@ -74,4 +78,5 @@ footer {
   text-align: center;
   padding: 10px;
 }
+
 
