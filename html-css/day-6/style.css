@@ -36,6 +36,11 @@ p {
   
 }
 
+img {
+  width: 100%;
+  height: auto;  /* Preserves aspect ratio */
+}
+
 .description {
   font-size: 18px;
   color: rgb(240, 240, 240);
@@ -69,3 +74,4 @@ footer {
   text-align: center;
   padding: 10px;
 }
+
