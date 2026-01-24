@@ -1,0 +1,71 @@
+h1,
+h2,
+h3,
+p,
+li {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+header {
+  background-color: rgb(109, 125, 138);
+  color: aliceblue;
+  text-align: center;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 50px;
+  color: rgb(147, 232, 19);
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 40px;
+  color: rgb(19, 232, 147);
+}
+
+h3 {
+  font-size: 27px;
+  color: rgb(232, 19, 147);
+}
+
+p {
+  font-size: 20px;
+  
+}
+
+.description {
+  font-size: 18px;
+  color: rgb(240, 240, 240);
+}
+
+.top-places {
+  background-color: beige;
+  color: brown;
+  text-align: center;
+  padding: 10px;
+}
+
+.places {
+  list-style: none;
+}
+
+.top-beaches {
+  background-color: lightblue;
+  color: navy;
+  text-align: center;
+  padding: 10px;
+}
+
+.beaches {
+  list-style: none;
+}
+
+footer {
+  background-color: rgb(109, 125, 138);
+  color: aliceblue;
+  text-align: center;
+  padding: 10px;
+}
